@@ -2,6 +2,11 @@ to create an app out of a file
 	\pyinstaller.exe --onefile --windowed calculator_gui.py
 library for scraping
 	pip install selenium webdriver-manager
+we installed a library to talk to the llm
+	gpt4all, langchain
+we then made a program to import a document and have the llm go through it.
+
+
 
 
 
