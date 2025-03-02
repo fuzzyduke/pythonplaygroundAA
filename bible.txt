@@ -1,0 +1,7 @@
+to create an app out of a file
+	\pyinstaller.exe --onefile --windowed calculator_gui.py
+library for scraping
+	pip install selenium webdriver-manager
+
+
+

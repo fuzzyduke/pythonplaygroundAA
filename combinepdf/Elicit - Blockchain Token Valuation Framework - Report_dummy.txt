@@ -1,0 +1,498 @@
+--- Page 1 ---
+Design a blockchain token research framework for investors to eval-
+uate token value. Some ideas re to include key on-chain metrics,
+developer activity , market sentiment, fundamental valuation, and
+macro trends. Provide a structured approach to assess liquidity ,
+adoption, and risk.
+A seven-category framework for token evaluation was developed, allowing investors to assess blockchain
+tokens through adjustable metrics covering technical, economic, and adoption factors.
+Abstract
+This report analyzes 10 studies on blockchain token valuation to develop an investment evaluation framework.
+The analyzed research includes theoretical models, market analyses, and previous literature reviews across
+major blockchain platforms like Ethereum and Bitcoin.
+The included studies found that on-chain metrics, particularly gas prices and transaction volumes, correlate
+with token values. User adoption rates showed significant influence on token performance, though measure-
+ment methods varied across studies. Both traditional financial metrics and blockchain-specific indicators
+appeared important for comprehensive token evaluation.
+Based on these findings, we propose a seven-category framework for token evaluation: (1) on-chain metrics,
+(2) network effects, (3) liquidity measures, (4) market sentiment indicators, (5) technical risk factors, (6)
+economic risk assessment, and (7) adoption metrics. Each category includes specific measurement tools and
+suggested weightings for different investment scenarios.
+The analyzed research showed agreement on the importance of user adoption metrics and on-chain data.
+However, studies differed in their assessment of token incentive structures and the reliability of market
+sentiment indicators. While quantitative metrics formed the foundation of most analyses, qualitative factors
+like protocol governance and ease of use were also identified as relevant considerations.
+F or practical application, the framework allows investors to adjust metric weightings based on token type,
+blockchain platform, and project maturity . This adaptability helps address the diverse nature of blockchain
+token investments while maintaining a structured evaluation approach.
+Paper search
+Using your research question ”Design a blockchain token research framework for investors to evaluate token
+value. Some ideas re to include key on-chain metrics, developer activity , market sentiment, fundamental
+valuation, and macro trends. Provide a structured approach to assess liquidity , adoption, and risk. ”, we
+searched across over 126 million academic papers from the Semantic Scholar corpus. W e retrieved the 100
+papers most relevant to the query .
+Screening
+W e screened in papers that met these criteria:
+1
+
+--- Page 2 ---
+• V aluation F ramework: Does the study analyze blockchain token valuation frameworks, methodolo-
+gies, or fundamental valuation models for crypto assets?
+• Quantitative Metrics : Does the research examine on-chain metrics, market dynamics, liquidity
+metrics, or trading patterns in relation to token value?
+• Network Analysis : Does the study analyze adoption metrics, user behavior, or network effects in
+blockchain networks?
+• Market F actors: Does the research investigate market sentiment, behavioral aspects, or macro-
+economic factors affecting cryptocurrency markets?
+• Empirical Basis : Does the study present empirical evidence or data-driven analysis rather than just
+opinion or market commentary?
+• Generalizability: Does the study examine multiple tokens/cryptocurrencies or present findings that
+can be generalized beyond a single case study?
+W e considered all screening questions together and made a holistic judgement about whether to screen in
+each paper.
+Data extraction
+W e asked a large language model to extract each data column below from each paper. W e gave the model
+the extraction instructions shown below for each column.
+• Research Methodology :
+Identify and describe the primary research methodology used in the study:
+• Specify the type of analysis (e.g., multiple linear regression, decision-making framework, model-based
+approach)
+• Describe any statistical techniques or modeling approaches
+• Note any unique methodological approaches or innovations
+If multiple methodological approaches are used, list them in order of prominence. If the methodology is not
+clearly stated, write ”Methodology not clearly specified” and provide any contextual details available.
+• Data Sources and Sample Characteristics :
+Extract information about the data sources and sample:
+• Specify the number of blockchain tokens/platforms studied
+• Describe the source of data (e.g., cross-sectional data, token price series)
+• List the specific blockchain networks or platforms included (e.g., Solana, Polygon, Ethereum)
+• Note any inclusion/exclusion criteria for tokens or platforms
+If sample size or data sources are not explicitly stated, note ”Sample details incomplete” and provide any
+partial information available.
+• Primary Metrics and V ariables:
+Identify and list the key metrics and variables analyzed in the study:
+• List all on-chain metrics examined
+• Specify off-chain factors considered
+• Note any market sentiment or fundamental valuation metrics
+2
+
+--- Page 3 ---
+• Describe how these variables were measured or calculated
+Prioritize variables directly related to token value, liquidity , adoption, or risk. If variables are complex,
+provide a brief explanation of how they were conceptualized or measured.
+• Outcome Measures :
+Extract the primary outcome measures of the study:
+• Specify the main dependent variables (e.g., token volatility , returns, liquidity)
+• Note the statistical significance of key findings
+• Record any predictive model performance metrics (e.g., R-squared, Mean Square Error)
+If multiple outcomes were studied, list them in order of the study's emphasis. If outcome measures are not
+clearly defined, note ”Outcomes not clearly specified” .
+• Key Findings and Implications :
+Summarize the main findings of the study:
+• Describe the most significant factors affecting token value
+• Note any unexpected or counterintuitive results
+• Extract any recommendations for investors or token evaluation
+F ocus on findings directly relevant to the research framework for token value assessment. If findings are
+complex, provide a concise summary of the key insights.
+Results
+Characteristics of Included Studies
+Study
+F ull text
+retrieved Research F ocus Methodology
+Key Metrics
+Analyzed
+Platform
+Coverage
+Brown, 2018 No T rust dynamics
+in blockchain
+financial
+systems
+Evolutionary
+Computing,
+T opological
+Data Analysis,
+Fields Finance,
+System
+Dynamics
+T rust metrics,
+information
+flows,
+transactions
+No mention
+found
+Chen et al.,
+2020
+Y es V olatility effect
+on tokenomics
+Model-based
+approach,
+empirical
+analysis
+Platform
+productivity
+volatility , user
+adoption, token
+price stability
+Bitcoin,
+Ethereum
+Cong et al.,
+2020
+No Dynamic
+adoption and
+valuation of
+tokens
+Dynamic
+asset-pricing
+model
+User
+transactional
+demand,
+platform
+adoption
+No mention
+found
+3
+
+--- Page 4 ---
+Study
+F ull text
+retrieved Research F ocus Methodology
+Key Metrics
+Analyzed
+Platform
+Coverage
+Eick, 2024 No Intrinsic value
+prediction of
+Ethereum
+Linear multiple
+regression
+Gas price,
+transaction
+fees, miner
+rewards
+Ethereum
+Li, 2022 No Strategic
+earning on
+tokenized
+platforms
+Decision-
+making
+framework,
+Monte-Carlo
+methods,
+Reinforcement
+Learning
+Investment
+intensity ,
+laboring
+intensity , token
+price
+No mention
+found
+Marin et al.,
+2023
+Y es T oken creation
+and valuation
+Systematic
+review
+(PRISMA)
+Demand-supply
+dynamics,
+social
+incentives,
+market
+conditions
+Multiple (focus
+on Ethereum)
+Nadler and
+Guo, 2020
+No Pricing of risk
+factors in
+cryptocurrency
+markets
+Asset pricing
+model
+Market risk,
+blockchain-
+specific risk
+factors
+Bitcoin,
+Ethereum
+Sareen, 2023 No F actors
+affecting
+gaming crypto
+tokens
+Multiple linear
+regression
+T oken
+volatility ,
+returns,
+liquidity
+Solana,
+Polygon
+Stanley , 2019 No Behavioral
+heuristics in
+Initial Coin
+Offering (ICO)
+valuation
+Correlation
+analysis,
+hybrid model
+Return on
+Investment
+(ROI), ease of
+understanding,
+market
+sentiment
+No mention
+found
+T o, 2023 No On-chain
+cashflows and
+cryptocurrency
+returns
+Cross-sectional
+analysis
+Revenues
+retained by
+protocols,
+token
+incentives
+Multiple (not
+specified)
+Analysis of the included studies:
+1. Research F ocus:
+• W e found a diverse range of research focuses across the 10 studies.
+• The most common focus was token adoption and valuation, appearing in 2 studies.
+4
+
+--- Page 5 ---
+• Other focuses included trust dynamics, tokenomics, value prediction, strategic earning, risk factors,
+gaming tokens, ICO valuation, and cashflows and returns.
+2. Methodology:
+• W e found various methodological approaches:
+– 3 studies used multiple methods
+– 2 studies used asset-pricing models
+– 2 studies used regression techniques
+– Other methodologies included empirical analysis, systematic review, and cross-sectional anal-
+ysis
+3. Key Metrics:
+• W e found a wide array of metrics used across studies:
+– The most common metrics were transactions, volatility , and adoption, each appearing in 2
+studies
+– Other metrics included trust, information flows, price stability , gas price, miner rewards,
+investment intensity , market conditions, liquidity , ROI, and token incentives, among others
+4. Platforms:
+• Based on the platforms mentioned in the studies we reviewed, Ethereum was the most frequently
+studied, appearing in 4 of the 10 studies.
+• Bitcoin was studied in 2 studies
+• Solana and Polygon were each studied in 1 study
+• 2 studies mentioned multiple platforms without specifying
+• W e didn't find platform information for 4 studies
+Thematic Analysis
+F undamental V alue Drivers
+On-chain Metrics Analysis On-chain metrics emerge as crucial indicators for token valuation across
+multiple studies:
+• Eick (2024) identifies gas price per block, transaction fees, and rewards to miners as significant factors
+affecting Ethereum's intrinsic value.
+• T o (2023) emphasizes the importance of on-chain cashflow characteristics, particularly revenues re-
+tained by protocols, in determining token value.
+• Chen et al. (2020) link platform productivity (which can be inferred from transaction data) to token
+price stability and user adoption.
+• Cong et al.'s (2020) model bases token valuation on aggregated user transactional demand.
+However, the studies differ in their assessment of token incentives:
+• While some models incorporate them as key factors, T o (2023) finds that token incentives as a cost of
+revenue measure have little pricing power.
+• This discrepancy suggests that the role of token incentives in valuation may be context-dependent or
+require further investigation.
+5
+
+--- Page 6 ---
+Network Effects and Adoption Metrics Network effects and user adoption emerge as critical factors
+in token valuation across multiple studies:
+• Cong et al. (2020) emphasize the importance of user network externality and platform adoption in
+their dynamic asset-pricing model.
+• Chen et al. (2020) link high userbase adoption to stable token prices.
+• Li (2022) develops a decision-making framework that integrates participants' roles as users, investors,
+and laborers, highlighting the complex interplay between different stakeholders in determining token
+value.
+• Sareen (2023) provides empirical support for the importance of adoption metrics, finding that Monthly
+Active Users significantly affect token volatility in the context of gaming tokens.
+These studies consistently highlight the importance of user adoption and network growth metrics in their
+token valuation approaches. However, they also indicate that the relationship between adoption and value
+is not always straightforward, often following an S-curve pattern as described by Cong et al. (2020).
+T echnical Market Indicators
+Liquidity Metrics Liquidity emerges as a factor in token valuation, although it is not uniformly addressed
+across all studies:
+• Sareen (2023) explicitly includes liquidity as one of the main dependent variables in their analysis of
+gaming tokens.
+• The study finds that the number of faucets for a game and the percentage of tokens dedicated to
+rewards and private sale significantly influence liquidity .
+• While other studies do not directly measure liquidity , several touch on related concepts:
+– Cong et al. (2020) discuss how introducing tokens can lower users' transaction costs on a platform,
+which could be seen as a proxy for improved liquidity .
+– T o (2023) focuses on on-chain cashflow characteristics, which are closely related to a token's
+liquidity profile.
+The varying approaches to liquidity across studies suggest that while it is recognized as important, there is
+no standardized method for its incorporation into token valuation frameworks.
+T rading V olume Analysis T rading volume, while not explicitly analyzed in all studies, is implicitly
+considered in several:
+• Chen et al. (2020) discuss the volatility of cryptoassets, which is closely related to trading volume.
+• Nadler and Guo (2020) examine both on-chain and off-chain trading activity , suggesting that trading
+volume in both contexts is relevant to token valuation.
+• T o (2023) focuses on on-chain cashflow characteristics, which would likely include measures related to
+trading volume.
+• However, T o's finding that token incentives as a cost of revenue measure have little pricing power
+suggests that the relationship between trading activity (often stimulated by such incentives) and token
+value may be complex.
+Market Sentiment Indicators Market sentiment emerges as a significant factor in several studies, albeit
+with varying degrees of importance:
+6
+
+--- Page 7 ---
+• Stanley (2019) explicitly includes market sentiment as one of the key variables potentially impacting
+investment decisions in ICOs.
+• Interestingly , this study finds that ”ease of understanding” is significantly correlated with ROI, sug-
+gesting that investor perception plays a crucial role in token valuation, particularly in the early stages
+of a project.
+• Marin et al. (2023), in their systematic review, identify market sentiment as one of the key factors
+affecting token valuation.
+• They note the impact of news and events on token prices, highlighting the volatile nature of sentiment
+in the cryptocurrency market.
+• However, not all studies give equal weight to market sentiment:
+– Eick (2024) finds that features of the Ethereum Blockchain Network and valuation metrics have
+more predictive power than market sentiment in determining ether's intrinsic value.
+The varying emphasis on market sentiment across studies indicates that its importance may depend on
+factors such as the maturity of the token, the type of blockchain platform, and the specific use case.
+Risk Assessment F ramework
+T echnical Risks T echnical risks emerge as a crucial component in several studies' approaches to token
+valuation:
+• Nadler and Guo (2020) explicitly investigate blockchain-specific risk factors alongside traditional market
+risks.
+• Their finding of a shift in risk factors from Bitcoin to Ethereum highlights the evolving nature of
+technical risks in the blockchain space.
+• Li (2022) addresses technical risks through their decision-making framework, which uses Monte-Carlo
+methods to address parameter and system uncertainties.
+• This sophisticated approach suggests that technical risks in token valuation are complex and may
+require advanced modeling techniques to accurately assess.
+• Eick (2024) indirectly addresses technical risks by focusing on Ethereum-specific metrics like gas price
+and transaction fees.
+• These factors, while fundamental to the network's operation, also represent potential sources of tech-
+nical risk that could affect token value.
+Economic Risks Economic risks are addressed in various ways across the studies:
+• Chen et al. (2020) focus on the volatility of platform productivity and its effects on token price stability ,
+highlighting the economic risks associated with platform performance.
+• Cong et al. (2020) incorporate economic risks in their dynamic asset-pricing model through the concept
+of user transactional demand.
+• Marin et al. (2023), in their systematic review, identify several economic risk factors affecting token
+valuation, including market conditions and macroeconomic factors.
+• T o (2023) approaches economic risks through the lens of on-chain cashflow characteristics. By focusing
+on revenues retained by protocols, this study provides insights into how economic performance at the
+protocol level can affect token value.
+Adoption Risks Adoption risks feature prominently in several studies, reflecting the critical role of user
+adoption in token value:
+7
+
+--- Page 8 ---
+• Cong et al. (2020) model platform adoption as following an S-curve, highlighting the potential volatility
+in the middle phase of adoption.
+• Chen et al. (2020) link adoption to platform productivity and token price stability , indicating that
+adoption risks are closely tied to overall platform performance.
+• Sareen (2023) provides empirical evidence for the importance of adoption metrics in the context of
+gaming tokens, finding that Monthly Active Users significantly affect token volatility .
+• Li (2022) addresses adoption risks through their decision-making framework that integrates different
+roles of participants (users, investors, laborers).
+• This approach suggests that adoption risks are multifaceted and involve complex interactions between
+different stakeholder groups.
+F ramework Integration
+Based on the thematic analysis, we can propose an integrated framework for token valuation that incorporates
+the key insights from the reviewed studies:
+Metric Category Key Indicators Assessment Method Risk W eight
+On-chain Metrics Gas price, T ransaction
+fees, Retained revenues
+Quantitative analysis of
+blockchain data
+High
+Network Effects User adoption rate,
+Network growth
+S-curve modeling, User
+engagement metrics
+High
+Liquidity T rading volume, Bid-ask
+spread
+Market data analysis Medium
+Market Sentiment Social media sentiment,
+Search trends
+Natural language
+processing, T rend
+analysis
+Medium
+T echnical Risks Protocol upgrades,
+Security measures
+Qualitative assessment,
+Expert evaluation
+High
+Economic Risks Protocol revenue,
+Market conditions
+Financial analysis,
+Macroeconomic
+indicators
+High
+Adoption Risks User growth rate,
+Competitor analysis
+T rend analysis, Market
+research
+Medium
+Analysis of the integrated framework:
+1. Metric Categories:
+• W e found 7 metric categories for assessing blockchain projects.
+• On-chain Metrics had the most key indicators (3), while all other categories had 2 indicators each.
+2. Assessment Methods:
+• 4 categories were assessed using quantitative methods
+• 2 used mixed methods
+• 1 used qualitative methods
+8
+
+--- Page 9 ---
+3. Risk W eights:
+• W e found 4 categories with high risk weight
+• 3 categories had medium risk weight
+• W e didn't find any low risk weight categories in this table
+4. Key Indicators:
+• On-chain Metrics: gas price, transaction fees, and retained revenues
+• Network Effects: user adoption rate and network growth
+• Liquidity: trading volume and bid-ask spread
+• Market Sentiment: social media sentiment and search trends
+• T echnical Risks: protocol upgrades and security measures
+• Economic Risks: protocol revenue and market conditions
+• Adoption Risks: user growth rate and competitor analysis
+5. Assessment Methods:
+• Quantitative approaches: blockchain data analysis, S-curve modeling, market data analysis, and
+financial analysis
+• Mixed methods: natural language processing, trend analysis, and market research
+• Qualitative assessment: expert evaluation for technical risks
+This integrated framework synthesizes the diverse approaches found in the reviewed studies, providing a
+comprehensive structure for evaluating blockchain tokens. It incorporates both quantitative and qualitative
+metrics, reflecting the complex nature of token valuation in the blockchain ecosystem.
+References
+Ainsley T o. “ Magical Internet Money? On-Chain Cashflows and the Cross-Section of Cryptocurrency
+Returns. ”Social Science Research Network, 2023.
+Gordon S. Brown. “T rust Asymmetry ,” 2018.
+Jollen Chen, Dung-Cheng Lin, and Chuan-Hsiang Han. “ V olatility Effect on the Adoption and V aluation of
+T okenomics. ”ACM Symposium on Applied Computing , 2020.
+Joshua Eick. “ Intrinsic V alue of the Ethereum Blockchain Network. ”Social Science Research Network, 2024.
+L. Cong, Neng W ang, and Y e Li. “Charles A. Dice Center for Research in Financial Economics T okenomics:
+Dynamic Adoption and V aluation,” 2020.
+Maxwell Stanley . “The Application of Behavioural Heuristicsto Initial Coin Offerings V aluation and Invest-
+ment. ”The Journal of British Blockchain Association , 2019.
+Oana Marin, T. Cioara, Liana T oderean, D. Mitrea, and I. Anghel. “ Review of Blockchain T okens Creation
+and V aluation. ”F uture Internet, 2023.
+Philip Nadler, and Yike Guo. “ The F air V alue of a T oken: How Do Markets Price Cryptocurrencies?” 2020.
+Sumer Sareen. “Blockchain Games: What On and Off-Chain F actors Affect the V olatility , Returns, and
+Liquidity of Gaming Crypto T okens,” 2023.
+Tianyi Li. “ Strategic Earning on T okenized Platforms via Model-Based Decision Making . ” Social Science
+Research Network, 2022.
+9
+
+--- Page 10 ---
+Dummy PDF file
+
